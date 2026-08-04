@@ -10,11 +10,17 @@
 
 👨‍💻 About Me
 
-🎓 Software Engineering student at Universidad de Ibagué (Colombia).
+🎓 Software Engineering Student
 
-💻 Passionate about Backend Development using Java and Spring Boot, while building modern interfaces with Angular.
+💻 Backend Developer
 
-🚀 I enjoy creating practical software projects that solve real-world problems and continuously improving my programming skills.
+☕ Java & Spring Boot
+
+🌱 Learning Angular
+
+🚀 Building Full Stack Applications
+
+📍 Colombia
 
 💼 What I Do
 
@@ -34,17 +40,49 @@ Software Engineering
 
 Languages
 
+Java
 
+Python
+
+JavaScript
+
+TypeScript
+
+━━━━━━━━━━━━━━
 
 Frontend
 
+Angular
 
+HTML
+
+CSS
+
+━━━━━━━━━━━━━━
 
 Backend
 
+Spring Boot
 
+━━━━━━━━━━━━━━
 
 Database
+
+MySQL
+
+━━━━━━━━━━━━━━
+
+Tools
+
+Git
+
+GitHub
+
+VS Code
+
+IntelliJ
+
+Postman
 
 
 
@@ -53,14 +91,52 @@ Tools
 
 
 🚀 Featured Projects
+🛒 Inventory Management System
 
-🛒 Inventory Management System — Spring Boot + Angular + MySQL
+Spring Boot
 
-👟 Shoe Store Management System — Python
+Angular
 
-🌐 Personal Portfolio — HTML + CSS + JavaScript
+MySQL
+
+REST API
+
+JWT
+
+CRUD
+
+Repositorio
+
+🌐 Portfolio
+
+HTML
+
+CSS
+
+JavaScript
+
+Responsive
+
+Repositorio
+
+👟 Shoe Store
+
+Python
+
+Desktop App
+
+Repositorio
+
+
 
 📊 GitHub Analytics
+GitHub Stats
+
+Top Languages
+
+Streak
+
+Contribution Graph
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JhonOlivera&show_icons=true&theme=tokyonight&hide_border=true"/>
