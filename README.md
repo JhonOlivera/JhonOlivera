@@ -1,176 +1,47 @@
-<div align="center">
+### Hola, soy Jhon 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:b91c1c,100:06b6d4&height=220&section=header&text=Jhon%20Edwin%20Olivera&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+**Estudiante de Ingeniería de Sistemas · Backend Developer · Colombia** 🇨🇴
 
-👋 Hi, I'm Jhon Edwin Olivera
+Construyo aplicaciones full stack con Java/Spring Boot en el backend y Angular en el frontend.
 
+[Portfolio](https://cv-jhon-olivera-pwdj9q5iz-jhonoliveras-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jhon-edwin-olivera-duarte-25a05b344/) · [Email](mailto:jhonedwinolivera2018@gmail.com) · [GitHub](https://github.com/JhonOlivera)
 
+---
 
-</div>
+### Stack
 
-👨‍💻 About Me
+![Stack](https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,mysql,git,github,idea,vscode,postman&theme=dark)
 
-🎓 Software Engineering Student
+También: Postman · IntelliJ IDEA · VS Code
 
-💻 Backend Developer
+---
 
-☕ Java & Spring Boot
+### Projects
 
-🌱 Learning Angular
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **Inventory Management System** | Sistema full stack de gestión de inventario: productos, categorías y ventas con descuento automático de stock. | Java · Spring Boot · Angular · MySQL |
+| **Portfolio** | Sitio personal responsive con mi información y proyectos. | HTML · CSS · JavaScript |
+| **Shoe Store** | Aplicación de escritorio para gestión de una tienda de calzado. | Python |
 
-🚀 Building Full Stack Applications
+---
 
-📍 Colombia
+### GitHub Stats
 
-💼 What I Do
-
-REST APIs
-
-Backend Development
-
-Full Stack Web Applications
-
-Object-Oriented Programming
-
-Database Design
-
-Software Engineering
-
-🛠 Tech Stack
-
-Languages
-
-Java
-
-Python
-
-JavaScript
-
-TypeScript
-
-━━━━━━━━━━━━━━
-
-Frontend
-
-Angular
-
-HTML
-
-CSS
-
-━━━━━━━━━━━━━━
-
-Backend
-
-Spring Boot
-
-━━━━━━━━━━━━━━
-
-Database
-
-MySQL
-
-━━━━━━━━━━━━━━
-
-Tools
-
-Git
-
-GitHub
-
-VS Code
-
-IntelliJ
-
-Postman
-
-
-
-Tools
-
-
-
-🚀 Featured Projects
-🛒 Inventory Management System
-
-Spring Boot
-
-Angular
-
-MySQL
-
-REST API
-
-JWT
-
-CRUD
-
-Repositorio
-
-🌐 Portfolio
-
-HTML
-
-CSS
-
-JavaScript
-
-Responsive
-
-Repositorio
-
-👟 Shoe Store
-
-Python
-
-Desktop App
-
-Repositorio
-
-
-
-📊 GitHub Analytics
-GitHub Stats
-
-Top Languages
-
-Streak
-
-Contribution Graph
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JhonOlivera&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonOlivera&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img src="https://ghstats.dev/api?username=JhonOlivera&theme=dark" alt="GitHub stats de JhonOlivera" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonOlivera&theme=tokyonight&hide_border=true"/>
+---
+
+### Contribution Snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/JhonOlivera/JhonOlivera/output/github-contribution-grid-snake.svg" alt="Snake eating contribution grid" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonOlivera&theme=tokyo-night&hide_border=true"/>
-</p>
+---
 
-🏆 GitHub Trophies
+### Contacto
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JhonOlivera&theme=tokyonight&no-frame=true&column=7"/>
-</p>
-
-🐍 Contribution Snake
-
-Configure this after adding the GitHub Actions workflow.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/JhonOlivera/JhonOlivera/output/github-contribution-grid-snake.svg"/>
-</p>
-
-📫 Contact
-
-💼 LinkedIn: https://www.linkedin.com/in/jhon-edwin-olivera-duarte-25a05b344/
-
-🌐 Portfolio: https://cv-jhon-olivera-pwdj9q5iz-jhonoliveras-projects.vercel.app/
-
-📧 Email: jhonedwinolivera2018@gmail.com
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:b91c1c,100:0f172a&height=120&section=footer"/>
+📧 jhonedwinolivera2018@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/jhon-edwin-olivera-duarte-25a05b344/)
