@@ -28,9 +28,7 @@ También: Postman · IntelliJ IDEA · VS Code
 
 ### GitHub Stats
 
-<p align="left">
-  <img https://ghstats.dev/api/card?username=JhonOlivera&theme=dark/>
-</p>
+![GitHub stats de JhonOlivera](https://ghstats.dev/api/card?username=JhonOlivera&theme=dark)
 
 ---
 
