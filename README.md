@@ -29,7 +29,7 @@ También: Postman · IntelliJ IDEA · VS Code
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://ghstats.dev/api?username=JhonOlivera&theme=dark" alt="GitHub stats de JhonOlivera" />
+  <img https://ghstats.dev/api/card?username=JhonOlivera&theme=dark/>
 </p>
 
 ---
